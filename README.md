@@ -57,8 +57,32 @@ desktops.
 | **Student registration** | A clean, guided sign-up to join the Council. |
 | **Competitions & events** | Browse open competitions and register online. |
 | **Council & members** | Learn about the Council, its roles, and its members. |
-| **Secure admin area** | A protected dashboard to manage members and submissions. |
+| **Role-based access** | Three distinct access levels — Admin, Council, and Student — enforced on the server. |
+| **Secure admin area** | A protected dashboard to manage users, competitions, and registrations. |
 | **Fully responsive** | A polished experience across every screen size. |
+
+---
+
+## Roles & Access
+
+The platform has **three access levels**, each unlocking a different part of the
+site. Access is enforced on the server (every API request is checked), so it
+cannot be bypassed by editing the page or calling the API directly.
+
+<div align="center">
+
+| Role | Access level | Can do |
+|:----:|:------------:|--------|
+| **Admin** | Full control | Manage users, manage competitions (create · edit · open · close), view all registrations, and reach every page. |
+| **Council** | Advisory Council + Competitions | View Advisory Council content and browse / register for competitions. |
+| **Student** | Competitions only | View the competitions the Admin has opened and register for them. |
+
+</div>
+
+> The Admin creates every account (name · email · password · role). There is no
+> self-signup — only the Admin can create, edit, enable/disable, or delete users.
+
+Full setup and API details are in **[RBAC_SETUP.md](RBAC_SETUP.md)**.
 
 ---
 
@@ -87,8 +111,9 @@ desktops.
 | Layer | Technologies |
 |-------|--------------|
 | **Front-end** | HTML5 · CSS3 · JavaScript · bilingual & RTL-aware UI |
-| **Back-end** | Node.js · serverless API |
-| **Database** | SQLite / PostgreSQL |
+| **Back-end** | Node.js · serverless functions (Netlify / Vercel) |
+| **Auth & access** | JWT sessions · server-enforced role-based access control |
+| **Database** | PostgreSQL |
 | **Hosting** | Netlify |
 
 </div>
