@@ -2,7 +2,7 @@
 
 <img src="docs/assets/seal-1.png" alt="Supreme Student Advisory Council" width="110" />
 
-# 🎓 Supreme Student Advisory Council
+# Supreme Student Advisory Council
 
 ### International Islamic University, Islamabad (IIUI)
 
@@ -11,11 +11,11 @@ registration, council representation, and campus competitions.**
 
 <br/>
 
-### 🌐 [**&nbsp; ✦ &nbsp; VISIT THE LIVE WEBSITE &nbsp; ✦ &nbsp;**](https://supreme-student-advisory-council.netlify.app/)
+### [Visit the Live Website](https://supreme-student-advisory-council.netlify.app/)
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/●%20LIVE-Visit%20Website-219EBC?style=for-the-badge&labelColor=023047)](https://supreme-student-advisory-council.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/LIVE-Visit%20Website-219EBC?style=for-the-badge&labelColor=023047)](https://supreme-student-advisory-council.netlify.app/)
 [![Netlify](https://img.shields.io/badge/Deployed%20on-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -36,32 +36,33 @@ registration, council representation, and campus competitions.**
 
 ---
 
-## ✨ Overview
+## Overview
 
-The **Supreme Student Advisory Council** website is the official online home of
-the Council at IIUI. It gives students a single, welcoming place to learn about
-the Council, register to join, and take part in competitions and activities.
+The Supreme Student Advisory Council website is the official online home of the
+Council at IIUI. It gives students a single, welcoming place to learn about the
+Council, register to join, and take part in competitions and activities.
 
 The entire experience is **bilingual** — one click switches the whole site
 between **English** and **Arabic (العربية)** with full right-to-left (RTL)
-layout — and it looks and works beautifully on phones, tablets, and desktops.
+layout — and it is designed to work seamlessly across phones, tablets, and
+desktops.
 
 ---
 
-## 🚀 What You Can Do
+## Features
 
-| | Feature | Description |
-|---|---------|-------------|
-| 🌍 | **Bilingual experience** | Instant English ⇄ Arabic switching with complete RTL support. |
-| 📝 | **Student registration** | A clean, guided sign-up to join the Council. |
-| 🏆 | **Competitions & events** | Browse open competitions and register online. |
-| 👥 | **Council & members** | Learn about the Council, its roles, and its members. |
-| 🔐 | **Secure admin area** | A protected dashboard to manage members and submissions. |
-| 📱 | **Fully responsive** | A polished experience across every screen size. |
+| Feature | Description |
+|---------|-------------|
+| **Bilingual experience** | Instant English / Arabic switching with complete RTL support. |
+| **Student registration** | A clean, guided sign-up to join the Council. |
+| **Competitions & events** | Browse open competitions and register online. |
+| **Council & members** | Learn about the Council, its roles, and its members. |
+| **Secure admin area** | A protected dashboard to manage members and submissions. |
+| **Fully responsive** | A polished experience across every screen size. |
 
 ---
 
-## 🖼️ A Look Inside
+## A Look Inside
 
 **Simple, three-step registration**
 
@@ -71,7 +72,7 @@ layout — and it looks and works beautifully on phones, tablets, and desktops.
 
 <br/>
 
-**Looks great on mobile, too**
+**Responsive mobile layout**
 
 <div align="center">
   <img src="preview/mobile.png" alt="Mobile view" width="300" />
@@ -79,7 +80,7 @@ layout — and it looks and works beautifully on phones, tablets, and desktops.
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 <div align="center">
 
@@ -94,7 +95,7 @@ layout — and it looks and works beautifully on phones, tablets, and desktops.
 
 ---
 
-## 🎨 Visual Identity
+## Visual Identity
 
 <div align="center">
 
@@ -109,11 +110,11 @@ layout — and it looks and works beautifully on phones, tablets, and desktops.
 
 <div align="center">
 
-### 🌐 [Visit the live website →](https://supreme-student-advisory-council.netlify.app/)
+[Visit the live website](https://supreme-student-advisory-council.netlify.app/)
 
 <br/>
 
 Designed & developed for the **Supreme Student Advisory Council**
-International Islamic University, Islamabad 🇵🇰
+International Islamic University, Islamabad
 
 </div>
